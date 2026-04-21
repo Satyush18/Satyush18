@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋, I'm Satyush Mohapatra
 
-<!--
-**Satyush18/Satyush18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student
+🤖 AI Developer | Streamlit Projects
+💡 Passionate about Machine Learning & Web Development
 
-Here are some ideas to get you started:
+🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 AI Resume Analyzer (Streamlit, NLP)
+🔹 (Add more projects here)
+
+🛠️ Skills
+
+Python, Java
+HTML, CSS
+Machine Learning Basics
+
+📫 Connect with me
+
+ LinkedIn: https://www.linkedin.com/in/satyush-mohapatra-b05651337
