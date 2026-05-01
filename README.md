@@ -1,4 +1,4 @@
- Hi 👋, I'm Satyush Mohapatra
+ Hi, I'm Satyush Mohapatra
 
 🎓 CSE Student
 🤖 AI Developer | Streamlit Projects
